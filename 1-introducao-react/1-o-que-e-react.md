@@ -1,4 +1,5 @@
 ### Introdução ao React: O que é React e por que usá-lo?
+![O que é React?](../images/o-que-e-react.webp)
 
 #### O que é React?
 
