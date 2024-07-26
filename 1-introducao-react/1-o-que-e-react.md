@@ -1,11 +1,12 @@
-### Introdução ao React: O que é React e por que usá-lo?
+## Introdução ao React: O que é React e por que usá-lo?
 ![O que é React?](../images/o-que-e-react.webp)
+---
 
-#### O que é React?
+### O que é React?
 
 [React](https://reactjs.org/) é uma biblioteca JavaScript desenvolvida pelo Facebook, lançada em 2013. Seu principal objetivo é facilitar a criação de interfaces de usuário (UI) de maneira eficiente e escalável. Desde seu lançamento, React tem se tornado uma das ferramentas mais populares no desenvolvimento front-end, sendo amplamente adotada por grandes empresas e desenvolvedores ao redor do mundo.
 
-#### Por que usar React?
+### Por que usar React?
 
 1. **Componentização:**
    React introduz o conceito de componentes, que são blocos reutilizáveis de código que encapsulam a lógica e a interface de uma parte específica da aplicação. Isso permite que os desenvolvedores construam aplicações complexas de forma mais organizada e modular. Cada componente pode ter seu próprio estado e comportamento, facilitando a manutenção e a expansão do código.
@@ -25,7 +26,7 @@
 6. **Grande Comunidade e Suporte:**
    A comunidade React é uma das maiores e mais ativas no mundo do desenvolvimento web. Isso significa que há uma abundância de recursos, tutoriais, fóruns e bibliotecas de terceiros disponíveis para ajudar desenvolvedores de todos os níveis de habilidade.
 
-#### Conclusão
+### Conclusão
 
 React se destaca como uma escolha excelente para o desenvolvimento de interfaces de usuário modernas e responsivas. Suas características de componentização, uso do Virtual DOM, fluxo de dados unidirecional, rico ecossistema de ferramentas, capacidade de SEO e suporte de uma grande comunidade o tornam uma ferramenta poderosa e eficiente para desenvolvedores front-end.
 
