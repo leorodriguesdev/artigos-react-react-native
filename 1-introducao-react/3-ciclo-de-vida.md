@@ -1,5 +1,5 @@
 ## Introdução ao React: Ciclo de Vida dos Componentes
-![Componentes, Estado, e Props](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/componentes-estado-props.webp)
+![Componentes, Estado, e Props](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/3-ciclo-de-vida.webp)
 ---
 ### O que é o Ciclo de Vida dos Componentes?
 

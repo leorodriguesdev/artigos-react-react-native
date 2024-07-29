@@ -1,5 +1,5 @@
 ## Configurando o Ambiente de Desenvolvimento
-![Componentes, Estado, e Props](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/instalando-node-npm.webp)
+![Componentes, Estado, e Props](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/1-instalando-node-npm.webp)
 ---
 ### Instalando Node.js e npm
 
