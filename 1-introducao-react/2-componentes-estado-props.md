@@ -36,7 +36,9 @@ const element = React.createElement('h1', null, 'Hello, world!');
 
    // O retorno de element será:
    // Hello, João Silva!
-   // Com isso podemos percorrer e buscar os dados de user usando o .(ponto) mais o parametro desejamos buscar de user: user.firstName, user.lastName
+   // Com isso, podemos percorrer e buscar os dados
+   // de user usando o .(ponto) mais o parâmetro desejamos 
+   // buscar de user: user.firstName, user.lastName
    ```
 
 3. **Prevenção de Injeção de Código:**
@@ -54,15 +56,15 @@ Componentes são a base de qualquer aplicação React. Eles permitem dividir a i
      return <h1>Hello, {props.name}</h1>;
    }
 
-   // Chamariamos este componente assim:
-   // <Welcome name="Sara"/>
+   // Chamaríamos este componente assim:
+   // <Welcome name="José"/>
    // O retorno será:
    // Hello, José
    ```
 
 2. **Componentes de Classe (Desencorajado):**
    Componentes de classe são mais complexos e permitem que você use recursos adicionais, como estado e métodos de ciclo de vida. No entanto, com o advento dos [React Hooks](https://react.dev/reference/react/Hooks), componentes de classe são desencorajados em favor dos componentes funcionais que utilizam hooks.
-   Em outra oportunidades abordaremos os componente baseados em classes. 
+   Em outra oportunidade abordaremos os componente baseados em classes. 
 
 ### Estado (State)
 
@@ -89,19 +91,23 @@ import React, { useState } from 'react' // aqui importamos o react e seu useStat
 
 function App() {
 
-  const [cont, setCont] = useState(0); // aqui criamos o estado de cont (contador) e o setCont, ele que vai gerar a ação de troca de estado de cont, note que começa com 0(zero)
+  const [cont, setCont] = useState(0); // aqui criamos o estado de cont (contador) e o setCont, ele é quem vai gerar a ação de troca de estado de cont, note que começa com 0(zero)
 
   return (
     <div>
       <p>Número total do contador: {contador}</p>
-      <button onClick={() => setCount(contador + 1)}>Somando mais um</button>
+      <button onClick={() => setCount(cont + 1)}>Somando mais um</button>
     </div>
   )
-  // Neste return temos uma div como container que leva um parágrafo(<p>) e um botão (<button>)
+  // Neste return temos uma div como container que leva um
+  // parágrafo(<p>) e um botão (<button>)
   // No parágrafo mostra em tempo real o valor do contator
-  // No botão que ação para cada click, feito atráves do onClick, esta ação chama o setCont, neste setCout ele pega o cont e soma mais 1.
+  // No botão que ação para cada clique, feito através do 
+  // onClick, esta ação chama o setCont, neste setCout ele pega o
+  // cont e soma mais 1.
 
-  // Resumo, a cada click do botão é somado o valor de 1 na variável cont, que começa com 0
+  // Resumo, a cada click do botão é somado o valor de 1 na 
+  // variável cont, que começa com 0
 }
 
 ``` 
