@@ -1,7 +1,7 @@
 
 ## Introdução ao React: Conceitos Básicos - JSX, Componentes, Estado, e Props
 
-![Componentes, Estado, e Props](../images/componentes-estado-props.webp)
+![Componentes, Estado, e Props](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/componentes-estado-props.webp)
 ---
 
 ### JSX: JavaScript XML

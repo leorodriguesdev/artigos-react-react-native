@@ -1,6 +1,6 @@
 # Artigos React & React Native
 
-![React](./images/react.webp)
+![React](https://raw.githubusercontent.com/leorodriguesdev/artigos-react-react-native/main/images/react.webp)
 
 ### Introdução ao React
 
